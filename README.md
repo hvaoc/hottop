@@ -1,2 +1,2 @@
 # hottop
-HOTTOP - Smart HTTP Server 
+HOTTOP - Magical HTTP Server 
